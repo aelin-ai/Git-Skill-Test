@@ -1,3 +1,4 @@
 version: 1
 feature: base
 checkout step 1
+checkout step 2
